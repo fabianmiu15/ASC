@@ -8,7 +8,6 @@ The implementation focuses on the **core storage operations**, including adding 
 
 ## Implemented Features
 
-The project implements the requirements necessary to achieve a **grade up to 7**, including:
 
 ### One-Dimensional Storage Model
 A simplified storage device represented as a linear array of memory blocks.
