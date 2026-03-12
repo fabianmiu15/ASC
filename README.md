@@ -43,6 +43,3 @@ The simulated storage system follows these simplified rules:
 - **Linux system calls**
 - **C standard library functions** (`scanf`, `printf`)
 
-## Academic Context
-
-This project was developed for the **Computer Systems Architecture laboratory** and demonstrates low-level memory management concepts and storage allocation algorithms implemented directly in assembly language.
